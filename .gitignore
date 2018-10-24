@@ -292,3 +292,9 @@ config.rst
 
 package-lock.json
 
+## LaTeX files
+pdf/combined_files/
+*.aux
+*.log
+*.out
+*.synctex.gz
